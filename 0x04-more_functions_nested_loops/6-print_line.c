@@ -2,7 +2,7 @@
 
 /**
  * function that draws a straight line in the terminal
- * 
+ *
  */
 void print_line(int n)
 {
