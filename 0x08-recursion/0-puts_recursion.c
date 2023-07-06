@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  *  * function that prints strings .
  *   * @s:string to be printed.
