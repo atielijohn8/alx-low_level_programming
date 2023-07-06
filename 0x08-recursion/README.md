@@ -1,2 +1,1 @@
- - Recursion
-a program that repeats its function
+Recursion is a programming concept that involves a function calling itself repeatedly until a certain condition is met.
