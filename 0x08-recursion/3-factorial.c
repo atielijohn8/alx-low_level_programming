@@ -2,7 +2,8 @@
 /**
  * factorial - funtion returning factorial number
  * @n: number returns in factorial form
- * Return : factorial number
+ *
+ * Return : the factorial number
  */
 int factorial(int n)
 {
