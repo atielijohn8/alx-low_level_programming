@@ -2,6 +2,8 @@
 /**
  * _pow_recursion-return the value x^y.
  * @x,y: x raised to power of y
+ *
+ * Return: result of power
  */
 nt _pow_recursion(int x, int y)
 {
