@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * factorial - returns factorial number
+ * factorial - returns factorial n
  * @n: number returns in factorial form
  *
- * Return : the factorial number
+ * Return: factorial n
  */
 int factorial(int n)
 {
