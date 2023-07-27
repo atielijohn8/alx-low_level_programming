@@ -1,6 +1,12 @@
 #ifndef LISTS_H
 #define LISTS_H
-
+/**
+ * struct list_s - singly linked list.
+ * @str: string - malloc string.
+ * @len: sting length.
+ * @next: pointing next node
+ *
+ */
 typedef struct list_s
 {
 	char *str;
