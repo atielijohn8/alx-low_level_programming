@@ -10,13 +10,13 @@
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
-	unsigned int num.bits;
+	unsigned int numbits;
 
-	for (num.bits = 0; n || m; n >>= 1, m >>= 1)
+	for (numbits = 0; n || m; n >>= 1, m >>= 1)
 	{
 		if ((n & 1) != (m & 1))
-			num.bits++;
+			numbits++;
 	}
 
-	return (num.bits);
+	return (numbits);
 }

@@ -31,7 +31,7 @@ unsigned int binary_to_uint(const char *b)
 
 		if (b[length] & 1)
 		{
-			unsigned_int += base2;
+			unsigned_int += base;
 		}
 	}
 
