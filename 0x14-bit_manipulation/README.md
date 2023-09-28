@@ -1,0 +1,2 @@
+Bit manipulation is the process of performing operations on individual bits of data
+Bitwise operators are used to perform bit manipulation operations. These operators allow us to perform operations on individual bits of data, such as ANDing, ORing, XORing, and shifting.
