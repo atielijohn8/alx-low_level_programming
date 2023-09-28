@@ -6,7 +6,7 @@
  * @index: bit index
  * Return: 1 (success) -1 (failure)
  */
-int clear_bit(unsigned long int *n, unsigned int index);
+int clear_bit(unsigned long int *n, unsigned int index)
 {
 	unsigned int j;
 
