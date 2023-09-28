@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * set_bit - sets bit value to 1 for specified index to zero
+ * clear_bit - sets bit value to 1 for specified index to zero
  * @n: uns L int ptr
  * @index: bit index
  * Return: 1 (success) -1 (failure)
