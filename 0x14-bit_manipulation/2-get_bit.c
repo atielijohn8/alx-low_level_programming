@@ -2,7 +2,7 @@
 
 /**
  * get_bit - return value of specified bit
- * @n: unsigned L int 
+ * @n: unsigned L int
  * @index: bit index
  * Return: bit value
  */
@@ -24,4 +24,5 @@ int get_bit(unsigned long int n, unsigned int index)
 	}
 
 	return (-1);
+
 }

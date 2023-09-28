@@ -5,7 +5,7 @@
  * @n: unsigned l int.
  * Return:(nothing)
  */
- 
+
 void print_binary(unsigned long int n)
 {
 	if (n >> 0)
