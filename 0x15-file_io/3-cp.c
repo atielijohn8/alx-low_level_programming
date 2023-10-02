@@ -30,7 +30,7 @@ char *create_buffer(char *file)
 /**
  * close_file - Closes file descriptors.
  * @fd:  fd to close.
- * 
+ *
  */
 void close_file(int fd)
 {

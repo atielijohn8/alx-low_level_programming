@@ -5,7 +5,7 @@
  * @filename: Fptr
  * @text_content: string to add file at the end
  * Return: -1 (NULL), (-1) access violations, (1) success
- * 
+ *
  */
 
 int append_text_to_file(const char *filename, char *text_content)
