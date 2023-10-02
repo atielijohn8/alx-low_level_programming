@@ -2,7 +2,7 @@
 #define MAIN_H
 /*
  * Description: prototype source file
- *      
+ *  
  */
 
 #include <sys/types.h>
