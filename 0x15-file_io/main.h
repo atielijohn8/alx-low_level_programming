@@ -1,9 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
-/*prototype description
-*
-*
-*/
+/*
+ * Description: prototype source file
+ *      
+ */
 
 #include <sys/types.h>
 #include <sys/stat.h>
