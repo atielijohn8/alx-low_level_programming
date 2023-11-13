@@ -1,1 +1,7 @@
-Dynamic libraries  are compiled, executable code that can be loaded and linked to a program at runtime,provides a way to share code among multiple programs
+C - Dynamic libraries
+
+  TASKS
+  
+      libdynamic.so - A dynamic library
+      main.h - Contains all prototype of all fumctions in the library
+      1-create_dynamic_lib.sh - A script that creates a dynamic library by the name liball.so

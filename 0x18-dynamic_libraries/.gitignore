@@ -1,0 +1,6 @@
+*.c
+*.o
+liball.so
+_*
+100-test.py
+putchar.c
