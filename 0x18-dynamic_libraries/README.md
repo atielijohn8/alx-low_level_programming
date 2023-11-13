@@ -1,0 +1,1 @@
+Dynamic libraries  are compiled, executable code that can be loaded and linked to a program at runtime,provides a way to share code among multiple programs
